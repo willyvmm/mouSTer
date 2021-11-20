@@ -1,3 +1,6 @@
+3.11.1962 - Heartbeat configuration added. Validate directions implemented. Autofire implemented. 
+NOTICE: The button definitions in INI file were slightly changed to unify definition across working modes
+
 3.10.1939 - Service release. - Improved compatibility with a wide range of devices.
 
 3.10.1937 - Added Commodore C1351 mouse emulation mode.
