@@ -1,3 +1,11 @@
+3.12.2019 - Sixaxis aka DualShock3 aka PS3 controller support added.
+            Xbox360 controller support added
+            Trackball emulation mode added (experimental).
+            Reverse polarization setting for emulation of 2 and 3 buttons joystick added.
+            USB joystick class device fixed.  
+            Fixed error of analog joystick with devices without HAT.
+            C1351 fixed issue under NTSC machines. 
+
 3.11.1962 - Heartbeat configuration added. Validate directions implemented. Autofire implemented. 
 NOTICE: The button definitions in INI file were slightly changed to unify definition across working modes
 
@@ -12,3 +20,8 @@ NOTICE: The button definitions in INI file were slightly changed to unify defini
 3.08.1801 - Code cleanup, minor changes in functionality. Manual updated to match current code state.
 
 3.08.1743 - First public release.
+
+NOTE:
+Due to strange construction of Atari 7800, please do not use mouSTer with this machine until we test it properly.
+If you want to use with Atari7800, Use it on your responsibility. Warranty do not covert this machine.
+We are working on gudelines to possibly use with Atari 7800.
