@@ -1,3 +1,5 @@
+3.10.1937 - Added Commodore C1351 mouse emulation mode.
+
 3.09.1909 - Service release - Fixed Gamepad reversed direction.
 
 3.09.1902 - Service release - HID driver rebuilt. Fixed some major compatibility issues. Even more code cleanup.
