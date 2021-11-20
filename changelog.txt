@@ -1,0 +1,3 @@
+3.08.1801 - Code cleanup, minor changes in functionality. Manual updated to match current code state.
+
+3.08.1743 - First public release.
