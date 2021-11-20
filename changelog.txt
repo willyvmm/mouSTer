@@ -1,4 +1,3 @@
-
 3.10.1939 - Service release. - Improved compatibility with a wide range of devices.
 
 3.10.1937 - Added Commodore C1351 mouse emulation mode.
