@@ -1,5 +1,13 @@
+3.16.2600 - Major code refactoring.
+            Simple reporting after INI file processing added. New file "MOUSTER.MSG" is created with short status.
+            Added support for emulating Amiga CD32 joypad. (default settings are for Sony DS4).
+            Added support for wireless XBOX 360 controller.
+            Added Debug function, to improve feedback for unsupported devices.
+            Improved overall mouSTer stability (entering SOS mode)
+            Improved mouse latency. In the worst case up to ca. 20ms was possible.
+            
 3.13.2039 - No changes in the functionality. Many code cleanups.
-            New method of generating internal INI/manual implemented.
+            A new method of generating an internal INI/manual was implemented.
             
 3.12.2019 - Sixaxis aka DualShock3 aka PS3 controller support added.
             Xbox360 controller support added
