@@ -1,10 +1,13 @@
+3.13.2039 - No changes in the functionality. Many code cleanups.
+            New method of generating internal INI/manual implemented.
+            
 3.12.2019 - Sixaxis aka DualShock3 aka PS3 controller support added.
             Xbox360 controller support added
             Trackball emulation mode added (experimental).
             Reverse polarization setting for emulation of 2 and 3 buttons joystick added.
             USB joystick class device fixed.  
             Fixed error of analog joystick with devices without HAT.
-            C1351 fixed issue under NTSC machines. 
+            C1351 fixed the issue under NTSC machines. 
 
 3.11.1962 - Heartbeat configuration added. Validate directions implemented. Autofire implemented. 
 NOTICE: The button definitions in INI file were slightly changed to unify definition across working modes
