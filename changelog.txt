@@ -1,3 +1,5 @@
+3.09.1902 - Service release - HID driver rebuilt. Fixed some major compatibility issues. Even more code cleanup.
+
 3.08.1801 - Code cleanup, minor changes in functionality. Manual updated to match current code state.
 
 3.08.1743 - First public release.
