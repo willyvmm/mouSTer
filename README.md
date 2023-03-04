@@ -1,6 +1,6 @@
 # mouSTer
 ![mouSTer logo](/assets/images/mouSTer-logo.svg)
-## mouSTer is an universal USB HID class devices to db9 adapter. 
+## mouSTer is a universal USB HID class device to db9 adapter.
 ### mouSTer is the first fully configurable USB adapter for old computers.
 ***
 ### Supported Platforms:
@@ -14,7 +14,7 @@
 - Commodore Amiga (500,600,1000,1200,2000,3000,4000)
 - Commodore Amiga CD32
 - Commodore VIC-20
-- ZX spectrum via Kempston Interface
+- ZX Spectrum via Kempston Interface
 
  ###### ... and probably much more.
  ***
@@ -35,10 +35,10 @@
     - literally ALL
 - ALL USB Gampads
     - literally ALL or almost ALL
-    - Xbox 360 game pads and compatible devices. 
-    - Playstation DS3/sixaxis/DS4/DS5
+    - Xbox 360 gamepads and compatible devices. 
+    - Playstation DS3/Sixaxis/DS4/DS5
 - ALL USB Joysticks
-    - USB joystick are not so popular, so **mouSTer** has not been tested with too many of them.
+    - USB joysticks are not so popular, so **mouSTer** has not been tested with too many of them.
 ***
 ### mouSTer features:
 
@@ -47,17 +47,16 @@
 - full support for button mapping
 - full support for autofire on ANY button
 - autofire speed is also configurable
-- built-in debug feature, allowing to collect debug data in case of troubles.
+- built-in debug feature, allowing the collection of debug data in case of troubles.
 ***
 ### mouSTer history:
 
 ![mouSTer pac](/assets/images/mouSTer_pac.jpg)
 
-mouSTer was born as a **hid2st** device around autumn 2013. The first hardware revision was based on the almost unknown **FTDI Vinculum II** (VNC2) chip. Unfortunately that was the worst development decision ever. I would say that was a shoot into knee at the beginning of the journey. Don't touch this chip.
-Since then the hardware platform changed three times, and around autumn **2018 the mouSTer** got it's final physical shape.
-On the other end - the firmware went through same bumpy way. 
+mouSTer was born as a **hid2st** device around autumn 2013. The first hardware revision was based on the almost unknown **FTDI Vinculum II** (VNC2) chip. Unfortunately, that was the worst development decision ever. I would say that was a shoot to the knee at the beginning of the journey. Don't touch this chip.
+Since then the hardware platform changed three times, and around autumn 2018 the mouSTer got its final physical shape. On the other end - the firmware went through the same bumpy way. 
 - 4 hardware revisions and 3 times firmware revisions made from scratch.
-- the latest 3'rd firmware is 17 major revision, and ca 3500 build number. (at the time of writing)
+- the latest 3.x firmware has 17 major revisions and has circa 4000 effective code lines + libraries (at the time of writing)
 
 #### The mouSTer Family
 
@@ -66,8 +65,8 @@ On the other end - the firmware went through same bumpy way.
 ***
 ### mouSTer is leading the way.
 
-I may proudly say, the shape presented by the **mouSTer** has been unofficially adopted as a standard.
-There are more devices shown up on the marked recently that use same physical shape . Also some firmware features was successfully adopted in another products.
+I may proudly say, the shape that the **mouSTer** presents have been unofficially adopted as a standard.
+There are more devices shown up on the market recently that use the same physical shape. Also, some firmware features were successfully adopted in other products.
 ###### So ... stay tuned. More to come.
 ***
 
@@ -79,11 +78,17 @@ There are more devices shown up on the marked recently that use same physical sh
 | Support for Apple Desktop Bus emulation |  ![](https://geps.dev/progress/25) |
 | Support for PC Serial mouse emulation | ![](https://geps.dev/progress/37) |
 | Support for SEGA Mega Drive pad emulation | ![](https://geps.dev/progress/10) |
-| We're open for suggestions | ![](https://geps.dev/progress/999) |
+| We're open to suggestions | ![](https://geps.dev/progress/999) |
 | Open source wheel driver for Amiga | ![](https://geps.dev/progress/34) |
-| Semi open SDK for your own emulation | ![](https://geps.dev/progress/1) | 
+| Semi-open SDK for your emulation | ![](https://geps.dev/progress/1) | 
 | Let us know if you're interested | ![](https://geps.dev/progress/100) |
 | So we can prioritize tasks| ![](https://geps.dev/progress/70) |
+
+***
+## Firmware download
+### Latest stable firmware download: https://github.com/willyvmm/mouSTer/releases/latest
+Please do not use 3.16.2600 release. It's buggy. instead please use this: https://github.com/willyvmm/mouSTer/releases/tag/3.17.3475 or newer until the new stable firmware is released.
+### Latest pre-release (if any) can be found here: https://github.com/willyvmm/mouSTer/releases/
 
 ***
 
