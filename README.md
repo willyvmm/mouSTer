@@ -91,7 +91,14 @@ Please do not use 3.16.2600 release. It's buggy. instead please use this: https:
 ### Latest pre-release (if any) can be found here: https://github.com/willyvmm/mouSTer/releases/
 
 ***
+## Where to buy
 
+* https://retrohax.net/shop/modulesandparts/mouster/
+* https://retrolemon.co.uk/atari-st-ste-falcon/133-mouster.html
+* https://www.ebay.de/itm/324483346054
+* Contact US if You want to be here.
+
+***
 ## Meet us on Discord [![](https://dcbadge.vercel.app/api/server/UcGMrMgv7V)](https://discord.gg/UcGMrMgv7V)
 
 
