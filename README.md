@@ -1,5 +1,5 @@
 # mouSTer
-![mouSTer pac](/assets/images/mouSTer_pac.jpg)
+![mouSTer logo](/assets/images/mouSTer-logo.svg)
 ## mouSTer is an universal USB HID class devices to db9 adapter. 
 ### mouSTer is the first fully configurable USB adapter for old computers.
 ***
@@ -50,6 +50,8 @@
 - built-in debug feature, allowing to collect debug data in case of troubles.
 ***
 ### mouSTer history:
+
+![mouSTer pac](/assets/images/mouSTer_pac.jpg)
 
 mouSTer was born as a **hid2st** device around autumn 2013. The first hardware revision was based on the almost unknown **FTDI Vinculum II** (VNC2) chip. Unfortunately that was the worst development decision ever. I would say that was a shoot into knee at the beginning of the journey. Don't touch this chip.
 Since then the hardware platform changed three times, and around autumn **2018 the mouSTer** got it's final physical shape.
