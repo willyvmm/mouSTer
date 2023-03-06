@@ -1,4 +1,9 @@
 # mouSTer
+
+*When someone is a mouse master. He's very good with mouse, instead of keyboard.
+You call that person a mouSTer.* [^1].
+
+***
 ![mouSTer logo](/assets/images/mouSTer-logo.svg)
 ## mouSTer is a universal USB HID class device to db9 adapter.
 ### mouSTer is the first fully configurable USB adapter for old computers.
@@ -100,5 +105,6 @@ Please do not use 3.16.2600 release. It's buggy. instead please use this: https:
 
 ***
 ## Meet us on Discord [![](https://dcbadge.vercel.app/api/server/UcGMrMgv7V)](https://discord.gg/UcGMrMgv7V)
-
+***
+[^1]: https://www.urbandictionary.com/define.php?term=Mouster
 
