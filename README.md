@@ -42,8 +42,10 @@ You call that person a mouSTer.* [^1].
     - literally ALL or almost ALL
     - Xbox 360 gamepads and compatible devices. 
     - Playstation DS3/Sixaxis/DS4/DS5
+    - 8BitDo
 - ALL USB Joysticks
     - USB joysticks are not so popular, so **mouSTer** has not been tested with too many of them.
+    - Competition Pro Extra (SpeedLink/MadCatz)
 ***
 ### mouSTer features:
 
