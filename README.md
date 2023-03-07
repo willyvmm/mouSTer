@@ -92,12 +92,14 @@ There are more devices shown up on the market recently that use the same physica
 | So we can prioritize tasks| ![](https://geps.dev/progress/70) |
 
 ***
+
 ## Firmware download
 ### Latest stable firmware download: https://github.com/willyvmm/mouSTer/releases/latest
 Please do not use 3.16.2600 release. It's buggy. instead please use this: https://github.com/willyvmm/mouSTer/releases/tag/3.17.3475 or newer until the new stable firmware is released.
 ### Latest pre-release (if any) can be found here: https://github.com/willyvmm/mouSTer/releases/
 
 ***
+
 ## Where to buy
 
 * https://retrohax.net/shop/modulesandparts/mouster/
@@ -105,6 +107,19 @@ Please do not use 3.16.2600 release. It's buggy. instead please use this: https:
 * https://www.ebay.de/itm/324483346054
 * Contact US if You want to be here.
 
+***
+
+## Community support us - We support community
+* [Mega65](https://mega65.org/)
+* [SillyVenture](https://www.sillyventure.eu/)
+* [TeddyBeer C64](http://teddybeer.party)
+* [This Week In Retro](https://open.spotify.com/episode/3X6t5OdsUFIq29dhtJoK28)
+* [flashjazzcat](https://www.youtube.com/watch?v=1FINefdkQls)
+* [tahustvedt](https://cults3d.com/en/users/tahustvedt/creations) - [3D printed case](https://retrohax.net/wp-content/uploads/2021/03/Mouster-case.zip)
+* [CTRL-ALT-REES](https://www.youtube.com/watch?v=DwwULPDCpWE) - [CTRL-ALT-REES](https://www.youtube.com/watch?v=xk1SMQ9HkBY)
+* [MR.Lurch](https://www.youtube.com/watch?v=YkYoK3WywfU)
+* [RetroGralnia](https://www.youtube.com/watch?v=TnNj3VBJfCA)
+* [Hackaday](https://hackaday.com/2020/07/14/modern-mice-on-old-computers/) - [Hackaday](https://hackaday.com/2021/01/22/mouster-brings-usb-to-retro-computers/) - [Hackaday](https://hackaday.com/2021/08/09/this-old-mouse-building-a-usb-adapter-for-a-vintage-depraz-mouse/) - [Hackaday](https://hackaday.com/2023/02/16/the-mouster-adapter-now-has-amiga-scroll-support/)
 ***
 ## Meet us on Discord [![](https://dcbadge.vercel.app/api/server/UcGMrMgv7V)](https://discord.gg/UcGMrMgv7V)
 ***
