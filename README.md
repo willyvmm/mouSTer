@@ -50,6 +50,7 @@ You call that person a mouSTer.* [^1].
 ### mouSTer features:
 
 - full configurable
+- easy firmware update via USB Memory
 - adjust mouse speed
 - full support for button mapping
 - full support for autofire on ANY button
