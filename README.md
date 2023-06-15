@@ -34,7 +34,7 @@ You call that person a mouSTer.* [^1].
 - Trackball (experimental)
 - new, non yet existing devices :)
 ***
-### Supported USB Devices:
+### Supported USB[^2] Devices:
 
 - ALL USB mouses
     - literally ALL
@@ -125,4 +125,4 @@ Please do not use 3.16.2600 release. It's buggy. instead please use this: https:
 ## Meet us on Discord [![](https://dcbadge.vercel.app/api/server/UcGMrMgv7V)](https://discord.gg/UcGMrMgv7V)
 ***
 [^1]: https://www.urbandictionary.com/define.php?term=Mouster
-
+[^2]: Device with wireless adapter connected to USB port is still USB Device. 
