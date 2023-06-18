@@ -45,7 +45,7 @@ You call that person a mouSTer.* [^1].
 ***
 ### Unsupported USB Devices:
 
-- All known device are supported. The list is currently empty.
+-  "Keyboard Point Stick for Lenovo IBM Thinkpad Computer" - a trackpoint clone
 ***
 ### mouSTer features:
 
