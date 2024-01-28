@@ -83,6 +83,7 @@ There are more devices shown up on the market recently that use the same physica
 | Activity | status |
 | --- | ---| 
 | New Atari 8bit pointing device | ![](https://geps.dev/progress/95) |    
+| New Amiga driver | ![](https://geps.dev/progress/70) |    
 | Support for Apple Desktop Bus emulation |  ![](https://geps.dev/progress/25) |
 | Support for PC Serial mouse emulation | ![](https://geps.dev/progress/37) |
 | Support for SEGA Mega Drive pad emulation | ![](https://geps.dev/progress/10) |
