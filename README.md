@@ -27,7 +27,7 @@ You call that person a mouSTer.* [^1].
 ### mouSTer can emulate:
 
 - Atari mouse 
-- Amiga mouse (including wheel support)
+- Amiga mouse (need a min rev. 0.8.298 [driver](https://github.com/willyvmm/Amiga-mouSTer-wheel-mouse-driver/releases/latest) and min firmware rev. 3.20.4600 for wheel support)
 - Joystick
 - Gamepad
 - Commodore C1351 mouse (GEOS mouse)
@@ -82,8 +82,8 @@ There are more devices shown up on the market recently that use the same physica
 
 | Activity | status |
 | --- | ---| 
+| New Amiga driver | ![](https://geps.dev/progress/100) |    
 | New Atari 8bit pointing device | ![](https://geps.dev/progress/95) |    
-| New Amiga driver | ![](https://geps.dev/progress/70) |    
 | Support for Apple Desktop Bus emulation |  ![](https://geps.dev/progress/25) |
 | Support for PC Serial mouse emulation | ![](https://geps.dev/progress/37) |
 | Support for SEGA Mega Drive pad emulation | ![](https://geps.dev/progress/10) |
