@@ -51,11 +51,29 @@ You call that person a mouSTer.* [^1].
 
 - full configurable
 - easy firmware update via USB Memory
-- adjust mouse speed
+- adjust the mouse speed
 - full support for button mapping
 - full support for autofire on ANY button
 - autofire speed is also configurable
 - built-in debug feature, allowing the collection of debug data in case of troubles.
+***
+## Notes about Amiga driver and protocol:
+
+The protocol has been designed to ensure minimal code footprint and quick processing keeping high compatibility with classic mouse.
+Unfortunately, the protocol relies on CIA clock, and will not work on systems with overclocked CIA.
+The main clue of the protocol is to be as much compatible with the standard as possible.
+So far, the driver do not hijack any buttons, so both LMB and MMB may be used without any issues. 
+However, there is ONE buttons combination that is not supported:
+Simultaneously pressing LMB + MMB disables receiving new wheel events from the mouSTer.
+
+#### Features:
+- Vertical wheel support
+- Horizontal wheel support
+- Mouse button #4 support
+- Mouse button #5 support
+
+#### Technical details:
+ TBD.
 ***
 ### mouSTer history:
 
@@ -73,7 +91,7 @@ Since then the hardware platform changed three times, and around autumn 2018 the
 ***
 ### mouSTer is leading the way.
 
-I may proudly say, the shape that the **mouSTer** presents have been unofficially adopted as a standard.
+I may proudly say, the shape that the **mouSTer** presents has been unofficially adopted as a standard.
 There are more devices shown up on the market recently that use the same physical shape. Also, some firmware features were successfully adopted in other products.
 ###### So ... stay tuned. More to come.
 ***
@@ -97,7 +115,7 @@ There are more devices shown up on the market recently that use the same physica
 
 ## Firmware download
 ### Latest stable firmware download: https://github.com/willyvmm/mouSTer/releases/latest
-Please do not use 3.16.2600 release. It's buggy. instead please use this: https://github.com/willyvmm/mouSTer/releases/tag/3.17.3475 or newer until the new stable firmware is released.
+Please do not use the 3.16.2600 release. It's buggy. instead please use this: https://github.com/willyvmm/mouSTer/releases/tag/3.17.3475 or newer until the new stable firmware is released.
 ### Latest pre-release (if any) can be found here: https://github.com/willyvmm/mouSTer/releases/
 
 ***
